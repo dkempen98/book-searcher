@@ -1,2 +1,1 @@
-# book-searcher
-Book search engine using a MERN stack
+# Book Search Engine Starter Code
